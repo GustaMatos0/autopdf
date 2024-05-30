@@ -1,0 +1,12 @@
+setup.py
+autoPDF.egg-info/PKG-INFO
+autoPDF.egg-info/SOURCES.txt
+autoPDF.egg-info/dependency_links.txt
+autoPDF.egg-info/requires.txt
+autoPDF.egg-info/top_level.txt
+autopdf/__init__.py
+autopdf/clusterer.py
+autopdf/editor.py
+autopdf/exporting.py
+autopdf/to_md.py
+autopdf/to_txt.py

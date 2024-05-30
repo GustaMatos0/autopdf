@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: autoPDF
+Version: 0.0.5
+Summary: Extract PDF text in reading order.
+Author: Gustavo L. Matos
+Author-email: matosgustavo@statmatos.com
+Keywords: python,PDF,extract
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Readers, engineers
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pdfminer
+Requires-Dist: sklearn
+
+Extract PDF text in reading order! Formats supported are .txt and .md. Multiple column PDFs supported.
